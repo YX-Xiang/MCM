@@ -1,0 +1,98 @@
+
+[1]YiChen Dong,Siyi Li,Xueqin Gong. Time Series Analysis: An application of ARIMA model in stock price forecasting[P]. Proceedings of the 2017 International Conference on Innovations in Economic Management and Social Science (IEMSS 2017),2017.
+
+[2]Yuxing Qian,Huayang Zhou,Hao Li,Meiling Ren,Wenxuan Gui,Liqin Zhou. Analysis of Users' Health Knowledge Requirement and Health Perception in Senior Online Community Based on Web Text Mining[P]. Proceedings of the 2nd International Conference on Social Science, Public Health and Education (SSPHE 2018),2019.
+
+[3]Weimin Ouyang,Qinhua Huang. Mining Weighted Association Rules in Data Streams with a Sliding Window[P]. Proceedings of the 2015 International Conference on Computer Science and Intelligent Communication,2015.
+
+[4]Johannes K. Chiang,Chun-Cheng Chen. Sentimental Analysis on Big Data – On case of Financial Document Text Mining to Predict Sub-Index Trend[P]. Proceedings of the 2015 5th International Conference on Computer Sciences and Automation Engineering,2016.
+
+[5]Huali Cai,Fang Wu,Qi Duan,Jian Kang,Yawei Jiang. Simple Mining Method of Rich Text Data from User Feedback and Its Application[P]. Proceedings of the 2016 International Conference on Engineering Science and Management,2016.
+
+[6]Huilong Fan,Yongbin Qin. Research on Text Classification Based on Improved TF-IDF Algorithm[P]. Proceedings of the 2018 International Conference on Network, Communication, Computer Engineering (NCCE 2018),2018.
+
+[7]Liwen Liang. A Method of Antarctic Temperature Forecasting Based on Time Series Model[P]. Proceedings of the 2017 5th International Conference on Frontiers of Manufacturing Science and Measuring Technology (FMSMT 2017),2017.
+
+[8]Wengang Chen,WenWei Chen,Bing Fan,Runze Wu,Yanru Wang,Junli Fan. A Data Preprocessing Optimization Method based on Sliding Time Window in Communication Alarm Events[P]. Proceedings of the 2016 3rd International Conference on Materials Engineering, Manufacturing Technology and Control,2016.
+
+[9]Weisi Dai. Improvement and Implementation of Feature Weighting Algorithm TF-IDF in Text Classification[P]. Proceedings of the 2018 International Conference on Network, Communication, Computer Engineering (NCCE 2018),2018.
+
+[10]Lamia Al-Horaibi,Muhammad Badruddin Khan. Sentiment analysis of Arabic tweets using text mining techniques[P]. International Workshop on Pattern Recognition,2016.
+
+[11]Zhifang Dong,Jiasong Wu,Jiyong Gui. A novel sliding window algorithm for 2D discrete Fourier transform[P]. International Symposium on Multispectral Image Processing and Pattern Recognition,2015.
+
+[12]Yadav, C.S.,Sharan, A.,Joshi, M.L.. Semantic graph based approach for text mining[P]. Issues and Challenges in Intelligent Computing Techniques (ICICT), 2014 International Conference on,2014.
+
+[13]Isah, H.,Trundle, P.,Neagu, D.. Social media analysis for product safety using text mining and sentiment analysis[P]. Computational Intelligence (UKCI), 2014 14th UK Workshop on,2014.
+
+[14]Jian-hong YU,Xiao-juan LE. Sales Forecast for Amazon Sales Based on Different Statistics Methodologies[P]. Joint International Conference on Economics and Management Engineering (ICEME 2016) Economics and Business Management (EBM 2016),2016.
+
+[15]Somprasertsri, G., Lalitrojwong, P.. Extracting product features and opinions from product reviews using dependency analysis[P]. Fuzzy Systems and Knowledge Discovery (FSKD), 2010 Seventh International Conference on,2010.
+
+[16]Haiping Zhang, Zhengang Yu, Ming Xu, Yueling Shi. Feature-level sentiment analysis for Chinese product reviews[P]. Computer Research and Development (ICCRD), 2011 3rd International Conference on,2011.
+
+
+[20]Bei LIU. Oceanographic Big Data Text Categorization Algorithm Based on Improved Mutual Information[C]. Science and Engineering Research Center.Proceedings of 2017 2nd International Conference on Artificial Intelligence: Techniques and Applications (AITA 2017).Science and Engineering Research Center:Science and Engineering Research Center,2017:96-100.
+
+
+[22]Jie Chen. Optimized TF-IDF Algorithm with the Adaptive Weight of Position of Word[C]. Science and Engineering Research Center.Proceedings of 2016 2nd International Conference on Artificial Intelligence and Industrial Engineering (AIIE2016).Science and Engineering Research Center:Science and Engineering Research Center,2016:125-128.
+
+[5]Kats, Y.. Semantic Search and NLP-Based Diagnostics[P]. Computer-Based Medical Systems (CBMS), 2014 IEEE 27th International Symposium on,2014.
+[6]Mingshan Xie,Yanfang Deng. Research on the Degree of Confidence of the Commodity Based on Fuzzy Comprehensive Evaluation[P]. Proceedings of the 2016 5th International Conference on Measurement, Instrumentation and Automation (ICMIA 2016),2016.
+
+
+[1]Sukanya, M.,Biruntha, S.. Techniques on text mining[P]. Advanced Communication Control and Computing Technologies (ICACCCT), 2012 IEEE International Conference on,2012.
+
+[2]Yunfei Yi,Lijun Liu,Cheng Hua Li,Wei Song,Shuai Liu. Machine Learning Algorithms with Co-occurrence Based Term Association for Text Mining[P]. Computational Intelligence and Communication Networks (CICN), 2012 Fourth International Conference on,2012.
+
+[3]Kulkarni, A.R.,Tokekar, V.,Kulkarni, P.. Identifying context of text documents using Naïve Bayes classification and Apriori association rule mining[P]. Software Engineering (CONSEG), 2012 CSI Sixth International Conference on,2012.
+
+[4]Reategui, E.,Klemann, M.,Finco, M.D.. Using a Text Mining Tool to Support Text Summarization[P]. Advanced Learning Technologies (ICALT), 2012 IEEE 12th International Conference on,2012.
+
+[5]Wu Maowen,Zhang Cai Dong,Lan Weiyao,Wu Qing Qiang. Text topic mining based on LDA and co-occurrence theory[P]. Computer Science &amp; Education (ICCSE), 2012 7th International Conference on,2012.
+
+[6]Albathan, M.,Yuefeng Li,Algarni, A.. Using Patterns Co-occurrence Matrix for Cleaning Closed Sequential Patterns for Text Mining[P]. ,2012.
+
+[7]Trappey, C.,Hsin-Ying Wu,Kuan-Liang Liu,Feng-Teng Lin. Knowledge Discovery of Service Satisfaction Based on Text Analysis of Critical Incident Dialogues and Clustering Methods[P]. ,2013.
+
+[8]Kamatchi, K.,Siva Balan, A.. Multiphase text mining predictor for market analysis[P]. ,2013.
+
+[9]Guelpeli, M.V.C., Garcia, A.C.B., Branco, A.H.. The process of summarization in the pre-processing stage in order to improve measurement of texts when clustering[P]. Internet Technology and Secured Transactions (ICITST), 2011 International Conference for,2011.
+
+[10]Qingqiang Wu, Caidong Zhang, Xiang Deng, Changlong Jiang. LDA-based model for topic evolution mining on text[P]. Computer Science &amp; Education (ICCSE), 2011 6th International Conference on,2011.
+
+[11]Chaudhuri, C., Chaudhuri, A.. Detection of Verbatim or Partial Duplication from Multiple Source Documents Using Data Mining Techniques and Case-Based Reasoning Methodologies[P]. Emerging Applications of Information Technology (EAIT), 2011 Second International Conference on,2011.
+
+[12]Bhujade, V., Janwe, N.J.. Knowledge Discovery in Text Mining Technique Using Association Rules Extraction[P]. Computational Intelligence and Communication Networks (CICN), 2011 International Conference on,2011.
+
+[13]Simanovsky, A., Ulanov, A.. Mining Text Patterns for Synonyms Extraction[P]. Database and Expert Systems Applications (DEXA), 2011 22nd International Workshop on,2011.
+
+[14]Zelong Liu, Maozhen Li, Yang Liu, Ponraj, M.. Performance evaluation of Latent Dirichlet Allocation in text mining[P]. Fuzzy Systems and Knowledge Discovery (FSKD), 2011 Eighth International Conference on,2011.
+
+[15]Hirokawa, S., Baba, T., Nakatoh, T.. Text mining of bankruptcy information using formal concept analysis[P]. Awareness Science and Technology (iCAST), 2011 3rd International Conference on,2011.
+
+[16]Saeed, Z., Sadaf, A., Muhammad, S.. Activity-based correlation of personal documents and their visualization using association rule mining[P]. Emerging Technologies (ICET), 2011 7th International Conference on,2011.
+
+[17]Susheng Wang, Yan Liu, Zhichao Li, Yun Hua. The Relationship between Media Information and Stock Returns Based on Text Semantic Mining Algorithms[P]. Information Management, Innovation Management and Industrial Engineering (ICIII), 2011 International Conference on,2011.
+
+[18]Joshi, S., Nigam, B.. Categorizing the Document Using Multi Class Classification in Data Mining[P]. Computational Intelligence and Communication Networks (CICN), 2011 International Conference on,2011.
+
+[19]Yanxu Zhu, Gang Yin, Huaimin Wang, Dianxi Shi, Xiang Rao, Lin Yuan. Efficient Approach for Repeated Patterns Mining Based on Indent Shape of HTML Documents[P]. Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC), 2011 International Conference on,2011.
+
+[20]Goujon, B.. Text Mining for Opinion Target Detection[P]. Intelligence and Security Informatics Conference (EISIC), 2011 European,2011.
+
+[21]Gharehchopogh, F.S., Khalifelu, Z.A.. Analysis and evaluation of unstructured data: text mining versus natural language processing[P]. Application of Information and Communication Technologies (AICT), 2011 5th International Conference on,2011.
+
+[22]Nithya, K., Kalaivaani, P.C.D., Thangarajan, R.. An enhanced data mining model for text classification[P]. Computing, Communication and Applications (ICCCA), 2012 International Conference on,2012.
+
+[23]Sun Yueheng, Liu Xing, Cui Xiaoyuan. The Mining of Term Semantic Relationships and its Application in Text Classification[P]. Intelligent Computation Technology and Automation (ICICTA), 2012 Fifth International Conference on,2012.
+
+[24]Yan Chen, Yang Yang, Huisan Zhang, Haiping Zhu, Feng Tian. A topic detection method based on Semantic Dependency Distance and PLSA[P]. Computer Supported Cooperative Work in Design (CSCWD), 2012 IEEE 16th International Conference on,2012.
+
+[25]Puri, S., Kaushik, S.. An enhanced fuzzy similarity based concept mining model for text classification using feature clustering[P]. Engineering and Systems (SCES), 2012 Students Conference on,2012.
+
+[26]Sam, K.M., Chatwin, C.R.. Ontology-based text-mining model for social network analysis[P]. Management of Innovation and Technology (ICMIT), 2012 IEEE International Conference on,2012.
+
+[27]Siering, M.. "Boom" or "Ruin"--Does It Make a Difference? Using Text Mining and Sentiment Analysis to Support Intraday Investment Decisions[P]. System Science (HICSS), 2012 45th Hawaii International Conference on,2012.
+
+[28]Dongbin Hu,Lixia Luo,Lihua Xu. The study on Web product reviews mining based on an improved text categorization algorithm[P]. icebi-10,2010.
